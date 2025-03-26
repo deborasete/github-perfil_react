@@ -1,0 +1,23 @@
+.label {
+  font-size: 18px;
+  margin-bottom: 8px;
+  display: block;
+  color: #333;
+  margin-left: 20px;
+  font-size: 14px;
+}
+
+.inputField {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  width: 100%;
+  max-width: 300px;
+  margin-bottom: 16px;
+  margin-left: 20px;
+}
+
+.inputField:focus {
+  outline: none;
+  border-color: #007bff;
+}
